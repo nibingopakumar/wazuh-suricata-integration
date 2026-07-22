@@ -80,7 +80,7 @@ This project demonstrates the integration of **Wazuh SIEM** with **Suricata IDS*
 
 The complete project documentation is available in:
 
-📄 **report/Wazuh_Suricata_Project_Report.pdf**
+📄 **report/Wazuh-Suricat-Project-Report.pdf**
 
 ---
 
